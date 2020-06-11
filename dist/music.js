@@ -2,7 +2,6 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
     autoplay: true,
-    data-mode: 'circulation',
     audio: [
       {
         name: "那些年",
